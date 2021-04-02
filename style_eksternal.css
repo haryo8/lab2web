@@ -1,0 +1,55 @@
+nav {
+    background: #20A759;
+    color:#fff;
+    padding: 10px;
+}
+nav a {
+color: #fff; text-decoration: none; padding:10px 20px;
+}
+nav .active, nav a:hover {
+    background: #0B6B3A;
+    border-top: 100px;
+
+}
+/* ID Selector */
+#intro {
+background: #418fb1; border: 1px solid #099249; min-height: 100px; padding: 10px;
+}
+#intro h1 {
+text-align: left; border: 0;
+color: #fff;
+}
+/* Class Selector */
+.button {
+padding: 15px 20px; background: #bebcbd; color: #fff;
+display: inline-block; margin: 10px; text-decoration: none;
+}
+.btn-primary {
+    background: #E42A42;
+}
+
+h1, h2 {
+     font-family: "Times New Roman", Times, serif;
+     color: #3366cc;
+}
+
+h1, h2 {
+     font-family: "Times New Roman", Times, serif; color: #3366cc;
+}
+
+body {
+	background-image: url(bg1.png);
+}
+  body {
+      background-image: url(login.png);
+      background-size: 100%;
+      background-repeat: no-repeat;
+    }
+    #card {
+        background: #fbfbfb;
+        border-radius: 8px;
+        box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.65);
+        height: 410px;
+        margin: 6rem auto 8.1rem auto;
+        width: 329px;
+    } 
